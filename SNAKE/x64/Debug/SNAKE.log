@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  SNAKE.cpp
+c:\users\galxy\desktop\all_files\progs_and_projects\c++\snake\snake\snake.cpp(23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\galxy\desktop\all_files\progs_and_projects\c++\snake\snake\snake.cpp(168): warning C4244: 'initializing': conversion from 'double' to 'clock_t', possible loss of data
+  SNAKE.vcxproj -> C:\Users\galxy\Desktop\ALL_FILES\PROGS_AND_PROJECTS\C++\SNAKE\x64\Debug\SNAKE.exe
